@@ -1,0 +1,11 @@
+../X-CUBE-AI/App/mlp.c:476:9:ai_mlp_get_info	144	static
+../X-CUBE-AI/App/mlp.c:522:9:ai_mlp_get_report	144	static
+../X-CUBE-AI/App/mlp.c:568:10:ai_mlp_get_error	0	static
+../X-CUBE-AI/App/mlp.c:574:10:ai_mlp_create	16	static
+../X-CUBE-AI/App/mlp.c:618:12:ai_mlp_inputs_get	0	static
+../X-CUBE-AI/App/mlp.c:628:12:ai_mlp_outputs_get	0	static
+../X-CUBE-AI/App/mlp.c:638:11:ai_mlp_destroy	0	static
+../X-CUBE-AI/App/mlp.c:644:9:ai_mlp_init	32	static
+../X-CUBE-AI/App/mlp.c:584:10:ai_mlp_create_and_init	88	static
+../X-CUBE-AI/App/mlp.c:661:8:ai_mlp_run	0	static
+../X-CUBE-AI/App/mlp.c:668:8:ai_mlp_forward	0	static
